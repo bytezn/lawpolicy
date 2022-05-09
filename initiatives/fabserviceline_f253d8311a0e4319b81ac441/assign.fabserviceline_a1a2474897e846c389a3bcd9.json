@@ -6,7 +6,7 @@
  "properties": {
   "displayName": "fabserviceline",
   "policyDefinitionId": "/subscriptions/4d29452c-c22b-4cf7-a67d-87dd48248533/providers/Microsoft.Authorization/policySetDefinitions/f253d8311a0e4319b81ac441",
-  "scope": "/subscriptions/4d29452c-c22b-4cf7-a67d-87dd48248533/resourceGroups/fabpolicy4",
+  "scope": "/subscriptions/4d29452c-c22b-4cf7-a67d-87dd48248533/resourceGroups/fabpolicy3",
   "notScopes": [],
   "parameters": {},
   "metadata": {
@@ -19,7 +19,7 @@
   },
   "enforcementMode": "Default"
  },
- "id": "/subscriptions/4d29452c-c22b-4cf7-a67d-87dd48248533/resourceGroups/fabpolicy4/providers/Microsoft.Authorization/policyAssignments/a1a2474897e846c389a3bcd9",
+ "id": "/subscriptions/4d29452c-c22b-4cf7-a67d-87dd48248533/resourceGroups/fabpolicy3/providers/Microsoft.Authorization/policyAssignments/a1a2474897e846c389a3bcd9",
  "type": "Microsoft.Authorization/policyAssignments",
  "name": "a1a2474897e846c389a3bcd9",
  "location": "southafricanorth"
