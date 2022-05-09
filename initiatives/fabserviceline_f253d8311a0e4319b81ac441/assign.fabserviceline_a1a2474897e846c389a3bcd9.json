@@ -6,7 +6,7 @@
  "properties": {
   "displayName": "fabserviceline",
   "policyDefinitionId": "/subscriptions/4d29452c-c22b-4cf7-a67d-87dd48248533/providers/Microsoft.Authorization/policySetDefinitions/f253d8311a0e4319b81ac441",
-  "scope": "/subscriptions/4d29452c-c22b-4cf7-a67d-87dd48248533/resourceGroups/fabpolicy3",
+  "scope": "/subscriptions/4d29452c-c22b-4cf7-a67d-87dd48248533/resourceGroups/fabpolicy4",
   "notScopes": [],
   "parameters": {},
   "metadata": {
